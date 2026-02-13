@@ -1,6 +1,6 @@
 # Urban compost microbiome
 
-Introduction
+### Introduction
 Urban composting plays a critical role in sustainable agriculture, organic waste recycling, and soil health. Compost systems located near farms and communities also intersect with food safety and public health. This project investigates how microbial communities - including bacteria, fungi, and bacteriophages - change over time during a 6-week heat compost cycle.
 Using paired physicochemical analyses and long-read Nanopore metagenomics, we profiled independent urban compost piles across mesophilic and thermophilic stages. Our integrative approach enables longitudinal recovery of compost chemistry and microbiome, improved antimicrobial resistance (AMR) gene detection, novel bacteriophage discovery, and detailed tracking of microbiome succession.
 
