@@ -20,25 +20,15 @@ Project_Data/: Contains chemistry and microbiome data.
 ### Prerequisites
 To run the analyses, you will need the following software installed on your system:
 
-For nanopore data acquisition:
-MinKNOW v23.11.2
-MinKNOW core v5.8.0
+For nanopore data acquisition: MinKNOW v23.11.2, MinKNOW core v5.8.0
 
-For rapid nanopore data analysis:
-EPI2ME Labs v23.11.2
-Dorado v7.2.11 
+For rapid nanopore data analysis: EPI2ME Labs v23.11.2, Dorado v7.2.11 
 
-For taxonomic and AMR analysis:
-Kraken2 v2.1.3
-Abricate v1.0.1
+For taxonomic and AMR analysis: Kraken2 v2.1.3, Abricate v1.0.1
 
-For phage analysis:
-PhaBOX v2.1
-PhageScope
+For phage analysis: PhaBOX v2.1, PhageScope
 
-For data analysis and visualization:
-Python v3.6.4
-R v4.5.1 
+For data analysis and visualization: Python v3.6.4, R v4.5.1 
 
 ### Contributors
  - [Angel Montes](https://github.com/angel-montes20)
